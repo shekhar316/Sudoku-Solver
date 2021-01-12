@@ -1,4 +1,4 @@
-# Sodoku Solver
+# Sudoku Solver
 
 ## Winter Programming Bootcamp : Project 02 (Week 02)
 
